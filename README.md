@@ -8,8 +8,8 @@ This dataset includes the following variables:
 - activity_avg: average activity counts at 5 minutes epoch
 - flag_min: number of minutes that have been flagged with invalid recording
 
-### "plot_fd_new1.R" includes R functions to do. 
+### "plot_fd_new1.R" includes R functions to generate figures displaying analysis after fpca. 
 
-### "plot_fpca_new1.R" includes R functions to do. 
+### "plot_fpca_new1.R" includes R functions to generate figures displaying analysis after fpca. 
 
-### "fPCA_analysis code" includes the main R code to run fpca analysis on the sample data. 
+### "fPCA_analysis code" includes the main R code to run fpca analysis on the sample NHANES data. 
