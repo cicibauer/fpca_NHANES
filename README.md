@@ -42,7 +42,7 @@ R function to [plot a functional object](plot_fd_new1.R)
 - code adapted from plot.fd{fda}
 - changes are made to present labels of xasis as clock time
 
-R function to generate Figure1 in the paper of [functional principal components](plot_fpca_new1.R)
+R function to generate Figure 1 in the published paper of [functional principal components](plot_fpca_new1.R)
 - code adapted from plot.pca.fd{fda}
 - add argument 'flip' to decide which component(s) to have sign(s) flipped ('+' to '-' or vice versa)
 - use different colors to represent component's sign
