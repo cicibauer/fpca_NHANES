@@ -1,6 +1,6 @@
 # Rest-activity profiles among U.S. adults in a nationally representative sample: a functional principal component analysis
 
-This Github repository provides sample data and codes for the [published study](https://link.springer.com/article/10.1186/s12966-022-01274-4#Sec2).
+This Github repository provides sample data and codes for this [published study](https://link.springer.com/article/10.1186/s12966-022-01274-4#Sec2).
 
 ## Overview
 
