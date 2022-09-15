@@ -1,22 +1,21 @@
 # Rest-activity profiles among U.S. adults in a nationally representative sample: a functional principal component analysis
 
-This Github repository provides sample data and codes for the [published study](https://link.springer.com/article/10.1186/s12966-022-01274-4#Sec2)
+This Github repository provides sample data and codes for the [published study](https://link.springer.com/article/10.1186/s12966-022-01274-4#Sec2).
 
 ## Overview
 
-This study aims at characterizing rest-activity patterns in the general population and by demographic socioeconomic and work characteristics, and shed light on individual and environmental factors shaping the rest-activity behavior. We apply function Principal Component Analysis (fPCA) on 24-hr actigraphy data on a large sample that representative of the US population. The data was from The National Health and Nutrition Examination Survey (NHANES) 2011-2014 cycles.
+This study aimed at characterizing rest-activity patterns in the general population and by demographic socioeconomic and work characteristics, and shed light on individual and environmental factors shaping the rest-activity behaviors. We applied function Principal Component Analysis (fPCA) using 24-hr actigraphy data on a large sample that representative of the US population from The National Health and Nutrition Examination Survey (NHANES) 2011-2014 cycles.
 
 ## Research Questions
 
 * How to characterize rest-activity patterns from 24-hr actigraphy data?
-* What's the overall rest-activity patterns look like among the general population?
-* How are different features of rest-activity pattern vary by demographics and socioeconomic factors?
-* Are there any associations between different features and health outcomes?
+* What are the overall rest-activity patterns among the general population?
+* How do different features of rest-activity pattern vary by demographics and socioeconomic factors?
+* Are there any associations between the rest-activity pattern and health outcomes?
 
 ## Findings
 
-* Four distinct rest-activity profiles were identified to describe aspects of overall amplitude, early rising time, prolonged daytime activity and biphasic pattern.
-[insert the profiles figure here. need access to upload figure]
+* Four distinct rest-activity profiles were identified to describe aspects of overall amplitude, early rising time, prolonged daytime activity and biphasic pattern. [insert the profiles figure here. need access to upload figure]
 * Rest-activity profiles are highly associated with age, race, education levels and household income levels.
 * Rest-activity profiles differ on weekdays and weekends by demographics and socioeconomics.
 * Lower overall activity is associated with higher odds of self-reported poor or fair health.
@@ -26,7 +25,7 @@ This study aims at characterizing rest-activity patterns in the general populati
 In a nationally representative sample of US adults, we identified four distinct profiles for the 24-h rest-activity cycle. We found considerable variation in these profiles across different subgroups by age, gender, race/ethnicity, SES and work status. We also observed associations between rest-activity profiles and self-rated health status.
 
 ## Data
-A sample data of50 subjects randomly selected from NHANES 2011-2014 with accelerometer data can be found [here](NHANES_sample_data.rds).
+A sample data of 50 randomly selected subjects from NHANES 2011-2014 with accelerometer data can be found [here](NHANES_sample_data.rds).
 
 This dataset includes the following variables:
 - SEQN
