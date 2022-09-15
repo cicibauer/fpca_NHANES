@@ -4,7 +4,7 @@ This Github repository provides sample data and codes for the [published study](
 
 ## Overview
 
-This study aimed at characterizing rest-activity patterns in the general population and by demographic socioeconomic and work characteristics, and shed light on individual and environmental factors shaping the rest-activity behaviors. We applied function Principal Component Analysis (fPCA) using 24-hr actigraphy data on a large sample that representative of the US population from The National Health and Nutrition Examination Survey (NHANES) 2011-2014 cycles.
+This study aimed at characterizing the rest-activity patterns in the general population and by demographic socioeconomic and work characteristics, and shed light on individual and environmental factors shaping the rest-activity behaviors. We applied function Principal Component Analysis (fPCA) using 24-hr actigraphy data on a large sample that representative of the US population from The National Health and Nutrition Examination Survey (NHANES) 2011-2014 cycles.
 
 ## Research Questions
 
